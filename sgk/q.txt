@@ -1,0 +1,5 @@
+—————For Adding attendance——
+
+INSERT INTO `Mini_project`.`Attendance` (`SUB_Code`, `DATE`, `P_A`, `USN`, `SID`) VALUES ('15CS553', '2017-08-16', '1', '1DT15CS115', 'DSI0101');
+
+
