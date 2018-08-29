@@ -1,5 +1,5 @@
 # Student Attendance Management System  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/0xpulsar/StudentAttendanceManagementSystem/blob/master/LICENSE)
-This is my DBMS mini project. This project is open sourced for everyone to modify and use it as a base model.
+This is my 5th semester DBMS mini project. This project is open sourced for everyone to modify and use it as a base model.
 ## ER Diagram
 ![alt text](https://github.com/0xpulsar/StudentAttendanceManagementSystem/raw/master/ERD.png)
 ## Download Report
